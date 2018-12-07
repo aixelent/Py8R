@@ -1,0 +1,12 @@
+import os
+
+mod_path = "/home/xhexe/Py/Py8R/files"
+files_list = os.listdir(mod_path)
+
+for files in files_list:
+    if files.lower().endswith(".txt"):
+        print('Converting to .xtt'.format(files))
+
+        file_name = os.path.join(mod_path, files)
+        new_file_name = file_name[0:len(file_name) - 4] + ".xtt"
+        os.rename(file_name, new_file_name)
