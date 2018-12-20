@@ -58,7 +58,7 @@
 - Py55 - Read file "line by line" and send a content from file to list,
 - Py56 - Read file "line by line" and send a content from file to array.
 - Py57 - Find longest word.
-- Py58 - 
-- Py59 - 
-- Py60 - 
-- (..) - 
+- Py58 - Count lines in text file.
+- Py59 - The number of occurences of a word in a text file.
+- Py60 - Make a file copy. Choose localisations as you want.
+- Py61 - Choose one random line from text file.
