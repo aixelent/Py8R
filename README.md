@@ -62,3 +62,21 @@
 - Py59 - The number of occurences of a word in a text file.
 - Py60 - Make a file copy. Choose localisations as you want.
 - Py61 - Choose one random line from text file.
+- Py62 - Create all possible strings from letters `````'a', 'p', 'u', 'd'`````.
+- Py63 - Return all possible permutations for values: ```1, 2, 3, 4```.
+- Py64 - Count all char occurrences in text file.
+- Py65 - Length of the entered word.
+- Py66 - Based on first letter - replace all chars (letters) for 'x' in provided string. If you enter word ```'amphetamine'``` input should looks like ```'amphetxmine'```.
+- Py67 - Count occurrences of each word in string.
+- Py68 - Separate given string with ```*``` character. Return the first part of this string.
+- Py69 - Separate given string with ```_``` character. But this
+- Py70 - Get from some number values and reverse them.
+- Py71 - Change first and last character in string taken from input.
+- Py72 - 
+- Py 100 - OS information's.
+- (..) - 
+- Py150 - Temperature converter.
+- Py151 - Remove vowels in given string by the user.
+- Py152 - Print only vowels from string given by the user.
+- Py44 - Get absolute filepath.
+- Py45 - List files from directory.
