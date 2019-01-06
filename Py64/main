@@ -1,0 +1,11 @@
+def char_occur():
+    file_path = input("Path to file: ")
+    with open(file_path, "r") as f:
+        chars = f.read().lower()
+        res = []
+        for char in set(list(chars)):
+            res.append((char, chars.count(char)))
+        print(sorted(res, key=lambda x: [1]))
+
+
+char_occur()
