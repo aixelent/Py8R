@@ -70,9 +70,11 @@
 - Py67 - Count occurrences of each word in string.
 - Py68 - Separate given string with ```*``` character. Return the first part of this string.
 - Py69 - Separate given string with ```_``` character. But this
-- Py70 - Get from some number values and reverse them.
-- Py71 - Change first and last character in string taken from input.
-- Py72 - 
+- Py70 - Get from input some number values and reverse them.
+- Py71 - Take word from input. Swap first letter with last letter from word.
+- Py72 - Find in string taken from input - first repeated character.
+- Py73 - Find in string taken from input - first repeated word.
+
 - Py 100 - OS information's.
 - (..) - 
 - Py150 - Temperature converter.
