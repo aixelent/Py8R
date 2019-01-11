@@ -74,9 +74,17 @@
 - Py71 - Take word from input. Swap first letter with last letter from word.
 - Py72 - Find in string taken from input - first repeated character.
 - Py73 - Find in string taken from input - first repeated word.
-
-- Py 100 - OS information's.
-- (..) - 
+- Py74 - Remove spaces from string.
+- Py75 - Capitalize first letter in each word in given string.
+- Py76 - Convert radians to degrees.
+- Py77 - 
+- Py78 - Remove duplicate characters from string.
+- Py79 - 
+- Py80 - Sum of digits from string.
+- Py81 - 
+- Py82 - 
+- Py83 -
+- Py100 - OS information's
 - Py150 - Temperature converter.
 - Py151 - Remove vowels in given string by the user.
 - Py152 - Print only vowels from string given by the user.
