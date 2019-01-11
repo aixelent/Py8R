@@ -1,11 +1,11 @@
-def repeated_char(sstring):
-    hash = {}
+def repeated_char(string):
+    temp = {}
 
-    for ch in sstring:
-        if ch in hash:
+    for ch in string:
+        if ch in temp:
             return ch
         else:
-            hash[ch] = 0
+            temp[ch] = 0
 
     return None
 
