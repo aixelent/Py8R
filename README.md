@@ -77,13 +77,23 @@
 - Py74 - Remove spaces from string.
 - Py75 - Capitalize first letter in each word in given string.
 - Py76 - Convert radians to degrees.
-- Py77 - 
+- Py77 - Select random item from list.
 - Py78 - Remove duplicate characters from string.
-- Py79 - 
+- Py79 - Shuffle elements from array
 - Py80 - Sum of digits from string.
-- Py81 - 
-- Py82 - 
-- Py83 -
+- Py81 - Return a random prime number (2048 length).
+- Py82 - Remove duplicates from list, sort list without duplicates and print them.
+- Py83 - Sum elements from list.
+- Py84 - Multiply elements from list.
+- Py85 - Get key/value from list.
+- Py86 - 
+- Py87 - 
+- Py88 - 
+- Py89 - 
+- Py90 - 
+- Py94 - Convert int to hex from 0 - 99.
+- Py95 - Return random line from text file.
+- Py99 - Math quiz.
 - Py100 - OS information's
 - Py150 - Temperature converter.
 - Py151 - Remove vowels in given string by the user.
