@@ -85,7 +85,7 @@
 - Py82 - Remove duplicates from list, sort list without duplicates and print them.
 - Py83 - Sum elements from list.
 - Py84 - Multiply elements from list.
-- Py85 - Get key/value from list.
+- Py85 - Get key/value from dictionary.
 - Py86 - 
 - Py87 - 
 - Py88 - 
