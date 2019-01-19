@@ -89,7 +89,7 @@
 - Py86 - 
 - Py87 - 
 - Py88 - 
-- Py89 - 
+- Py89 - Get smallest and largest value from list.
 - Py90 - 
 - Py94 - Convert int to hex from 0 - 99.
 - Py95 - Return random line from text file.
