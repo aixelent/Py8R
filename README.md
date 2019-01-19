@@ -86,7 +86,7 @@
 - Py83 - Sum elements from list.
 - Py84 - Multiply elements from list.
 - Py85 - Get key/value from dictionary.
-- Py86 - 
+- Py86 - Print differences between two lists.
 - Py87 - 
 - Py88 - 
 - Py89 - Get smallest and largest value from list.
