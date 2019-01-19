@@ -88,15 +88,16 @@
 - Py85 - Get key/value from dictionary.
 - Py86 - Print differences between two lists.
 - Py87 - 
-- Py88 - 
+- Py88 - Print all values from list greater than `x` - 'x' is specified by yourself.
 - Py89 - Get smallest and largest value from list.
-- Py90 - 
+- Py90 - Week number.
+- Py91 - Sum of all items in dictionary.
+- Py92 - 
+- Py93 - 
 - Py94 - Convert int to hex from 0 - 99.
 - Py95 - Return random line from text file.
+- Py96 - Temperature converter.
+- Py97 - Print only vowels from string given by the user.
+- Py98 - Remove vowels in given string by the user.
 - Py99 - Math quiz.
 - Py100 - OS information's
-- Py150 - Temperature converter.
-- Py151 - Remove vowels in given string by the user.
-- Py152 - Print only vowels from string given by the user.
-- Py44 - Get absolute filepath.
-- Py45 - List files from directory.
