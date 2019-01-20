@@ -9,7 +9,6 @@
 - Py07 - Swap two values without temporary variable.
 - Py08 - Check given number - if positive or negative.
 - Py09 - Check size of an object.
-- Py10 - Simple calculator - add, subtract, multiply, divide.
 - Py10 - Solve ```(x * y) + (x * y) / 2^3``` - take values from user(input).
 - Py11 - Enter three values and add them. If three values are the same return zero.
 - Py12 - Even/odd numbers.
@@ -87,7 +86,7 @@
 - Py84 - Multiply elements from list.
 - Py85 - Get key/value from dictionary.
 - Py86 - Print differences between two lists.
-- Py87 - 
+- Py87 - Merge two dictionaries.
 - Py88 - Print all values from list greater than `x` - 'x' is specified by yourself.
 - Py89 - Get smallest and largest value from list.
 - Py90 - Week number.
@@ -99,5 +98,5 @@
 - Py96 - Temperature converter.
 - Py97 - Print only vowels from string given by the user.
 - Py98 - Remove vowels in given string by the user.
-- Py99 - Math quiz.
+- Py99 - Simple calculator - add, subtract, multiply, divide.
 - Py100 - OS information's
