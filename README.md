@@ -91,8 +91,8 @@
 - Py89 - Get smallest and largest value from list.
 - Py90 - Week number.
 - Py91 - Sum of all items in dictionary.
-- Py92 - 
-- Py93 - 
+- Py92 - Find numbers divisible by 3, 5 and 7between 0 and 1000.
+- Py93 - Count chars and numbers in given string.
 - Py94 - Convert int to hex from 0 - 99.
 - Py95 - Return random line from text file.
 - Py96 - Temperature converter.
