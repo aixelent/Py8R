@@ -1,5 +1,24 @@
-# Py8R
+# Py8R #
+- This repository was created for educational purposes. It contains 100 examples of small scripts written in Python.
 
+
+### Repository Structure ###
+```
+├── Py01
+├── Py02
+├── Pyxx
+├── Py15                                 # Some repositories contains more than one sample of code for one task.
+│   ├── 01                               # Each new solution is in separate catalog.
+│       ├── main.py                      # And each solution is launched using the main.py file.
+│   ├── 02                               # Second solution for Py15
+│       ├── main.py
+├── Py100
+├── README.md
+```
+
+
+### Examples of scripts ###
+```
 - Py01 - Time and date ```now```.
 - Py02 - Generate a list from values taken from input.
 - Py03 - Display first and last element from list.
