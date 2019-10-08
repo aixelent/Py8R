@@ -1,8 +1,18 @@
-# Py8R #
-- This repository was created for educational purposes. It contains 100 examples of small scripts written in Python.
+# :snake: Py8R #
+This repository was created for educational purposes. It contains 100 examples of small scripts written in Python.
 
 
-### Repository Structure ###
+
+# :bulb: The Idea #
+A few months ago I was started playing with Python. To learn some advantages and disadvantages of these language I started reading book from [Real Python](https://realpython.com/best-python-books/#real-python-course-part-1) series (Python 3.5).
+The content from the book gaves me a very good basic understanding of the language.
+I decided to share these samples of code for other people who wants to start with Python.
+
+
+
+# :file_folder: Repository Structure #
+Some of examples have  more than only one solutions. You will find them in the directory with the task. 
+
 ```
 ├── Py01
 ├── Py02
@@ -11,14 +21,14 @@
 │   ├── 01                               # Each new solution is in separate catalog.
 │       ├── main.py                      # And each solution is launched using the main.py file.
 │   ├── 02                               # Second solution for Py15
-│       ├── main.py
+│       ├── main.py                      # File with second solution
 ├── Py100
 ├── README.md
 ```
 
 
-### Examples of scripts ###
-```
+# :clipboard: Examples of scripts #
+
 - Py01 - Time and date ```now```.
 - Py02 - Generate a list from values taken from input.
 - Py03 - Display first and last element from list.
@@ -119,3 +129,16 @@
 - Py98 - Remove vowels in given string by the user.
 - Py99 - Simple calculator - add, subtract, multiply, divide.
 - Py100 - OS information's
+
+
+
+# :bug: Bugs #
+If you found any problems/bugs  - create an issue.
+
+
+
+# :hammer: Contributing #
+Feel free to add a new samples or update existing.
+- Fork repository
+- Make a new branch branch - for relative order ;-)
+- Open Pull request.
